@@ -55,14 +55,14 @@ THEN I am able to successfully create, update, and delete data in my database
     DB_PW='password'
     ```
 6. Back in the terminal, enter "npm start".
-7. In the browser, go to localhost:3001.
+7. Using [Insomnia](https://insomnia.rest/), navigate to http://localhost:3001.
    - If you entered a different port in your .env file, navigate to that one.
 
 ## Usage
 
 To use this application, start by following the steps listed above. Once you have navigated to the correct local port, you can perform GET, POST, PUT, and DELETE routes for categories, products, and tags. These routes constitute the necessary backend functionality of an e-commerce store.
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1t2stmyLRa9J_iuC_ahVyfSU05FQ-f09h/view)
 
 Screenshot:
 
